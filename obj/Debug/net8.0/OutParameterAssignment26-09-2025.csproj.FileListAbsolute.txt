@@ -1,0 +1,14 @@
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\bin\Debug\net8.0\OutParameterAssignment26-09-2025.exe
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\bin\Debug\net8.0\OutParameterAssignment26-09-2025.deps.json
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\bin\Debug\net8.0\OutParameterAssignment26-09-2025.runtimeconfig.json
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\bin\Debug\net8.0\OutParameterAssignment26-09-2025.dll
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\bin\Debug\net8.0\OutParameterAssignment26-09-2025.pdb
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.AssemblyInfoInputs.cache
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.AssemblyInfo.cs
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.csproj.CoreCompileInputs.cache
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.dll
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\refint\OutParameterAssignment26-09-2025.dll
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.pdb
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\OutParameterAssignment26-09-2025.genruntimeconfig.cache
+C:\Users\Laxmi Bandaru\source\repos\OutParameterAssignment26-09-2025\OutParameterAssignment26-09-2025\obj\Debug\net8.0\ref\OutParameterAssignment26-09-2025.dll
